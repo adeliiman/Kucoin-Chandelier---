@@ -1,0 +1,626 @@
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.237.238:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [31/Mar/2023 12:43:44] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [31/Mar/2023 12:43:44] "GET /static/dynamic.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [31/Mar/2023 12:45:11] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [31/Mar/2023 12:45:11] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.237.238:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [31/Mar/2023 12:45:25] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [31/Mar/2023 12:45:25] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.237.238:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [31/Mar/2023 12:47:49] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [31/Mar/2023 12:47:49] "GET /static/dynamic.js HTTP/1.1" 200 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.237.238:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [31/Mar/2023 12:48:06] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [31/Mar/2023 12:48:06] "GET /static/dynamic.js HTTP/1.1" 200 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:34:09] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:34:09] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:34:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:34:23] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:34:23] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:34:28] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:34:28] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:34:31] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:34:31] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:36:43] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:36:43] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:41:09] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:41:09] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:47:18] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 09:47:18] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-16' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ConnectionClosedError(None, None, None)> got an exception no close frame received or sent
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-19' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ConnectionClosedError(None, None, None)> got an exception no close frame received or sent
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-4' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ConnectionClosedError(None, None, None)> got an exception no close frame received or sent
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 10:30:06] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 10:30:06] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 10:30:08] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 10:30:08] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-19' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ConnectionClosedError(None, Close(code=1011, reason='keepalive ping timeout'), None)> got an exception sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2090' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ConnectionError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1b1759a250>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1b1759a250>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2089' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f1b17e5ed30>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-17' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ConnectionClosedError(None, Close(code=1011, reason='keepalive ping timeout'), None)> got an exception sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-4' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ConnectionClosedError(None, Close(code=1011, reason='keepalive ping timeout'), None)> got an exception sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-2094' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ConnectionError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1b1758ca30>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1b1758ca30>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-2093' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f1b17f15190>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2096' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=SSLError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1131)')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1131)')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2095' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f1b17f15190>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2098' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=TimeoutError()> got an exception 
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2097' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f1b17f15310>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-2101' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=TimeoutError()> got an exception 
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-2100' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f1b1758c1c0>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2104' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=TimeoutError()> got an exception 
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2103' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f1b17e5e070>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 11:19:07] "POST / HTTP/1.1" 200 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 11:19:07] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 11:20:58] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 11:20:58] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 11:24:05] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 11:24:05] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 11:29:34] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 11:29:34] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 11:30:58] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 11:30:58] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 11:45:56] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 11:45:56] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-4' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=TimeoutError()> got an exception 
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-3' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fcbb02fa8e0>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-9' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=TimeoutError()> got an exception 
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-8' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fcbb0228c70>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-11' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=TimeoutError()> got an exception 
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-10' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fcbb0228f70>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:23:26] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:23:26] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:23:31] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:23:31] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-14' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ConnectionClosedError(None, Close(code=1011, reason='keepalive ping timeout'), None)> got an exception sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+kucoin.websocket.websocket - WARNING - _reconnect over.
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:33:07] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:33:07] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:39:45] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:39:45] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:51:29] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:51:29] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:51:32] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:51:32] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:55:24] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:55:24] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:55:36] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:55:36] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:55:37] "POST / HTTP/1.1" 200 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 12:55:37] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-19' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ConnectionClosedError(None, Close(code=1011, reason='keepalive ping timeout'), None)> got an exception sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2532' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2531' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e31c4c0>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2543' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2542' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e3012b0>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2547' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2546' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7da74f10>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2549' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2548' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e31cf40>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-17' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ConnectionClosedError(None, Close(code=1011, reason='keepalive ping timeout'), None)> got an exception sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-4' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ConnectionClosedError(None, Close(code=1011, reason='keepalive ping timeout'), None)> got an exception sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:21:28] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:21:28] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2562' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2561' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e31c370>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-2564' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Read timed out. (read timeout=5)"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Read timed out. (read timeout=5)
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-2563' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e382df0>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2566' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2565' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e3137c0>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2557' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=TimeoutError()> got an exception 
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2556' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e301670>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-2568' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-2567' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7da743d0>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2570' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2569' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7da742e0>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-2572' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-2571' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e301670>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2574' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2573' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e301670>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-2576' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-2575' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7d9a62e0>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-2578' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-2577' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e382e50>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2580' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2579' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7d9a62e0>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2582' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2581' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e382df0>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-2584' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=TimeoutError()> got an exception 
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-2583' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7d9a62e0>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2587' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=TimeoutError()> got an exception 
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2586' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e31cfd0>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2590' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2589' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e382e50>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-2592' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-2591' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7d9a62e0>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2594' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2593' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e382df0>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2596' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2595' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7da74e80>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-2598' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-2597' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e31cfd0>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2600' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2599' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e31cfd0>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2602' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2601' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7da74970>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2604' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-2603' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e382f40>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-2606' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-2605' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e31cfd0>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:26:59] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:26:59] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-2695' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ConnectionClosedError(None, Close(code=1011, reason='keepalive ping timeout'), None)> got an exception sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-3320' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-3319' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e382e20>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-3335' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-3334' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e313a90>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-3363' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-3362' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e31c520>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-3494' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-3493' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7d9a6eb0>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-3569' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-3568' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e301670>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-3823' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-3822' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e31ccd0>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-3827' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-3826' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7e313040>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-2725' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ConnectionClosedError(None, Close(code=1011, reason='keepalive ping timeout'), None)> got an exception sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-3830' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-3829' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f3d7d9a62e0>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:37:17] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:37:17] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:38:04] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:38:04] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:38:07] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:38:07] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:38:10] "POST / HTTP/1.1" 200 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:38:10] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-4' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-3' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fca44c3e250>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-6' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-5' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fca44c3ee50>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-10' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-9' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fca44c36a30>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-12' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-11' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fca44c05cd0>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-14' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-13' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fca44c36a30>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-16' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=TimeoutError()> got an exception 
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-15' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fca44c3e250>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-18' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=TimeoutError()> got an exception 
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-17' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fca44b97610>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-26' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-25' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fca44c36a00>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-28' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-27' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fca44c3ec40>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-56' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-55' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fca44b50610>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-113' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-112' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7fca44b50df0>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:40:03] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 13:40:03] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-19' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ConnectionClosedError(None, Close(code=1011, reason='keepalive ping timeout'), None)> got an exception sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-524' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-523' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e73682070>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-4' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ConnectionClosedError(None, Close(code=1011, reason='keepalive ping timeout'), None)> got an exception sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-530' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-529' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e736dfa60>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-532' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-531' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e737b18e0>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-535' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-534' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e736df910>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-537' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-536' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e73682070>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-540' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-539' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e737b1760>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-542' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-541' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e737b1760>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-546' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-545' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e736dfa90>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-549' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-548' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e737b1910>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-552' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-551' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e737b1970>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-554' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-553' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e736dff10>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-560' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-559' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e736dfa60>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-564' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=TimeoutError()> got an exception 
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-563' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e73682760>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+kucoin.websocket.websocket - WARNING - <Task finished name='Task-573' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-public (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin.websocket.websocket - WARNING - pending <Task pending name='Task-572' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e737b1850>()]>>
+kucoin.websocket.websocket - WARNING - cancel ok.
+kucoin.websocket.websocket - WARNING - _reconnect over.
+kucoin_futures.websocket.websocket - WARNING - <Task finished name='Task-576' coro=<ConnectWebsocket._run() done, defined at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:33> exception=ProxyError(MaxRetryError("HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))"))> got an exception HTTPSConnectionPool(host='api-futures.kucoin.com', port=443): Max retries exceeded with url: /api/v1/bullet-private (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1114: The handshake operation timed out')))
+kucoin_futures.websocket.websocket - WARNING - pending <Task pending name='Task-575' coro=<ConnectWebsocket._recover_topic_req_msg() running at /home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/kucoin_futures/websocket/websocket.py:127> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x7f0e736dfa90>()]>>
+kucoin_futures.websocket.websocket - WARNING - cancel ok.
+kucoin_futures.websocket.websocket - WARNING - _reconnect over.
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:07:00] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:07:01] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:07:59] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:07:59] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:08:31] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:08:31] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:08:55] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:08:55] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:10:03] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:10:03] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:11:48] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:11:48] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:13:18] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:13:18] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:29:14] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 16:29:14] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 17:49:49] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 17:49:49] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+app - ERROR - Exception on / [POST]
+Traceback (most recent call last):
+  File "/home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/iman/crypto_projects/Kucoin-Chandelier-Trailing/venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 35, in index
+    if data['trail']: new_setting.trail = data['trail']
+KeyError: 'trail'
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 17:49:55] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+root - WARNING - This will get logged to a file
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 17:50:44] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 17:50:44] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 17:50:49] "POST / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Apr/2023 17:50:49] "[36mGET /static/dynamic.js HTTP/1.1[0m" 304 -
